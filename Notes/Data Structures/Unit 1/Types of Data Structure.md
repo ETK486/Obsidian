@@ -20,7 +20,7 @@
 ![[Pasted image 20231104190951.png]]
 #### Non Linear Data Structures:
 
-Trees:
+[[Tree]]:
 
 	A tree data structure consists of various nodes linked together. The structure of a tree is hierarchical that forms a relationship like that of the parent and a child. The structure of the tree is formed in a way that there is one connection for every parent-child node relationship. Only one path should exist between the root to a node in the tree. Various types of trees are present based on their structures like AVL tree, binary tree, binary search tree, etc.
  Graph:

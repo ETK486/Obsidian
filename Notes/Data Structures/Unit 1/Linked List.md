@@ -93,3 +93,5 @@ The following operations are performed on a Circular Linked List
     - Deleting from the End of the list
     - Deleting a Specific Node
 - Display: This process displays the elements of a Circular linked list.
+
+###### [[Implementation of Linked List]]

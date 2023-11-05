@@ -27,3 +27,4 @@
 - **Learning** Curve: Using ADTs requires knowledge of their implementation and usage, which can take time and effort to learn.
 - **Limited Flexibility:** Some ADTs may be limited in their functionality or may not be suitable for all types of data structures.
 - **Cost**: Implementing ADTs may require additional resources and investment, which can increase the cost of development.
+[[Types of Data Structure]]

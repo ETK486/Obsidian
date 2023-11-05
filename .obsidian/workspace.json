@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "a6fb62152e00e714",
+    "type": "split",
+    "children": [
+      {
+        "id": "97373beb940a4518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "192f4d485f9c5dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Data Structures/Unit 1/Binary Tree.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "979780ed34942e99",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d968b0a259d3ff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62a289246ac68d39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12ae229a3247272a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb2c7b87bcb01e30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96aa6b968b650cb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "79d2ececc5af1252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e11ba87ed48d4198",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Data Structures/Unit 1/Binary Tree.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26a7c30a7f6419a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Data Structures/Unit 1/Binary Tree.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "889474ffa7923708",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe7d82ca194aced7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Data Structures/Unit 1/Binary Tree.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "62a289246ac68d39",
+  "lastOpenFiles": [
+    "Notes/Data Structures/Unit 1/Tree.md",
+    "Notes/Data Structures/Unit 1/Binary Tree.md",
+    "Notes/Data Structures/Unit 1/Images/IMG_20231105_160501.jpg",
+    "Notes/Data Structures/Unit 1/Images/IMG_20231105_160429.jpg",
+    "Notes/Data Structures/Unit 1/Images/IMG_20231105_160512.jpg",
+    "Notes/Data Structures/Unit 1/Images/IMG_20231105_160420.jpg",
+    "Notes/Data Structures/Unit 1/Images/Pasted image 20231105151323.png",
+    "Untitled.md",
+    "Notes/Data Structures/Unit 1/Types of Data Structure.md",
+    "Notes/Data Structures/Unit 1/ADT.md",
+    "Notes/Data Structures/Unit 1/Implementation of Data Structures/Implementation of Stack using Linked List.md",
+    "Notes/Data Structures/Unit 1/Stack.md",
+    "Notes/Data Structures/Unit 1/Implementation of Data Structures/Implementation of Stack using Array.md",
+    "Notes/Data Structures/Unit 1/Implementation of Data Structures/Implementation of Queue using Linked List.md",
+    "Notes/Data Structures/Unit 1/Queue.md",
+    "Notes/Data Structures/Unit 1/Implementation of Data Structures/Implementation of Queue using Array.md",
+    "Notes/Data Structures/Unit 1/Implementation of Data Structures/Implementation of Linked List.md",
+    "Notes/Data Structures/Unit 1/Linked List.md",
+    "Notes/Data Structures/Unit 1/Array.md",
+    "Notes/Data Structures/Unit 1/Implementation of Data Structures",
+    "Notes/Data Structures/Unit 1/Images/Pasted image 20231105114123.png",
+    "Notes/Data Structures/Unit 1/Images/Pasted image 20231105113210.png",
+    "Tree"
+  ]
+}

@@ -10,43 +10,9 @@
 
 #### Queue Representation:
 
-###### Array Representation of Queue:
+###### [[Implementation of Queue using Array]]
 
-	// Creating an empty queue
-	// A structure to represent a queue
-	class Queue {
-	public:
-		int front, rear, size;
-		unsigned cap;
-		int* arr;
-	};
-	// Function to create a queue of given capacity
-	// It initializes size of queue as 0
-	Queue* createQueue(unsigned cap)
-	{
-		Queue* queue = new Queue();
-		queue->cap = cap;
-		queue->front = queue->size = 0;
-		queue->rear = cap - 1;
-		queue->arr = new int[(queue->cap * sizeof(int))];
-		return queue;
-	}
-
-###### Linked List Representation of Queue:
-
-	struct QNode {
-		int data;
-		QNode* next;
-		QNode(int d)
-		{
-			data = d;
-			next = NULL;
-		}
-	};
-	struct Queue {
-		QNode *front, *rear;
-		Queue() { front = rear = NULL; }
-	};
+###### [[Implementation of Queue using Linked List]]
 
 #### Basic Operations for Queue in Data Structure:
 
